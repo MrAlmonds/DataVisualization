@@ -10,7 +10,7 @@ Data source: [https://www.kaggle.com/muhammetvarl/global-terrorism](https://www.
 - 181691 filas y 135 variables
 - Variable categórica: región
 - Variable numérica: número de asesinatos
-- Top 4 regiones del mundo con más asesinatos por terrorismo
+- Límite de categorías a mostrar. Top 4 regiones del mundo con más asesinatos por terrorismo
 
 ![plot of chunk pressure](VennDiagram.svg)
 
@@ -19,20 +19,19 @@ Data source: [https://www.kaggle.com/muhammetvarl/global-terrorism](https://www.
 
 Data source: [https://github.com/EmilHvitfeldt/animals](https://github.com/EmilHvitfeldt/animals)
 
-- 181691 filas y 135 variables
-- Variable categórica: región
-- Variable numérica: número de asesinatos
-- Top 4 regiones del mundo con más asesinatos por terrorismo
+- 610 filas y 48 variables
+- Variables categóricas
+- Límite de conjuntos a mostrar.
 
 ![plot of chunk pressure](terrorism.svg)
 
 ### Rain Cloud Plot de Diabetes Dataset
 Data source: [https://www.kaggle.com/pritsheta/diabetes-dataset](https://www.kaggle.com/pritsheta/diabetes-dataset)
 
-- 181691 filas y 135 variables
-- Variable categórica: región
-- Variable numérica: número de asesinatos
-- Top 4 regiones del mundo con más asesinatos por terrorismo
+- 768 filas y 9 variables
+- Variable categórica: riesgo de diabetes
+- Variable numérica: masa corporal (g)
+- Límite de categorías a mostrar.
 
 ![plot of chunk pressure](rcloud.svg)
 
