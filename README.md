@@ -1,36 +1,31 @@
----
-title: "PEC 2 - VISUALIZACIÓN DE DATOS"
-author: "Alexander Almendral González"
-output: html_document
----
+## Welcome to GitHub Pages
 
+You can use the [editor on GitHub](https://github.com/MrAlmonds/DataVisualization2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## R Markdown
+### Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+```markdown
+Syntax highlighted code block
 
+# Header 1
+## Header 2
+### Header 3
 
-```r
-summary(cars)
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
 ```
 
-```
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-```
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-## Including Plots
-
-You can also embed plots, for example:
-
-![plot of chunk pressure](VennDiagram.svg)
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+### Jekyll Themes
