@@ -12,7 +12,7 @@ Data source: [https://www.kaggle.com/muhammetvarl/global-terrorism](https://www.
 - Variable numérica: número de asesinatos
 - Límite de categorías a mostrar. Top 4 regiones del mundo con más asesinatos por terrorismo
 
-![plot of chunk pressure](VennDiagram.svg)
+![plot of chunk pressure](terrorism.svg)
 
 
 ### Venn Diagram de Animals Descriptions Dataset
@@ -23,7 +23,7 @@ Data source: [https://github.com/EmilHvitfeldt/animals](https://github.com/EmilH
 - Variables categóricas
 - Límite de conjuntos a mostrar.
 
-![plot of chunk pressure](terrorism.svg)
+![plot of chunk pressure](VennDiagram.svg)
 
 ### Rain Cloud Plot de Diabetes Dataset
 Data source: [https://www.kaggle.com/pritsheta/diabetes-dataset](https://www.kaggle.com/pritsheta/diabetes-dataset)
