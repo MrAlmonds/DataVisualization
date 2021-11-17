@@ -11,5 +11,5 @@ Data source: [Animals Descriptions Dataset](https://www.bing.com/search?q=animal
 
 ### Rain Cloud Plot
 
-![plot of chunk pressure](diabetes.svg)
+![plot of chunk pressure](rcloud.svg)
 Data source: [Diabetes Dataset](https://www.kaggle.com/pritsheta/diabetes-dataset)
