@@ -9,7 +9,7 @@ Data source: [Global Terrorism Dataset](https://www.kaggle.com/muhammetvarl/glob
 
 ![plot of chunk pressure](terrorism.svg)
 
-Data source: [Animals Descriptions Dataset](https://www.bing.com/search?q=animals+descriptions+dataset&cvid=4f9a7bb515e54b21b208a0681ac9bf3f&aqs=edge..69i57.11103j0j4&PC=NMTS&first=9&FORM=PERE)
+Data source: [Animals Descriptions Dataset](https://github.com/EmilHvitfeldt/animals)
 
 ### Rain Cloud Plot
 
