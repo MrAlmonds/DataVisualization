@@ -33,5 +33,5 @@ Data source: [https://www.kaggle.com/pritsheta/diabetes-dataset](https://www.kag
 - Variable numérica: masa corporal (g)
 - Límite de categorías a mostrar.
 
-![plot of chunk pressure](rcloud.svg)
+![plot of chunk pressure](cloud.svg)
 
